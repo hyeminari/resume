@@ -5,7 +5,7 @@ Email: hyeminsong@ewhain.net
 Phone: (82) 10 - 8407 - 1323
 
 ## Summary
-Experienced software developer with a strong background in web development and database management. Skilled in multiple programming languages and frameworks, with a focus on creating scalable and efficient solutions for complex projects. Passionate about staying up-to-date with the latest industry trends and technologies.
+Dual Major in Social Sciences and Venture Management
 
 ## Skills
 ### Programming Languages
