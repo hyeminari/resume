@@ -1,5 +1,5 @@
 Name: Hyemin Song
-Title: Software Developer
+Title: Wantrepreneur, currently a final year student @ EWHA
 Location: Hanam, Republic of Korea
 Email: hyeminsong@ewhain.net
 Phone: (82) 10 - 8407 - 1323
